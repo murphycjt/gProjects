@@ -1,8 +1,0 @@
-# DEMO Git Repository
-
-This is a test
-THIS IS AN AMENDMENT
-
-
-FGFGFGFGFGFGF
-## THIS IS ANOTHER CHANGE
